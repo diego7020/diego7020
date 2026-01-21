@@ -1,9 +1,7 @@
 # Olá, meu nome é Diego! 👋
 
-### 👨‍💻 Desenvolvedor [Sua Área: Ex Fullstack / Mobile / Data Science]
-
-Sou um apaixonado por tecnologia, focado em resolver problemas e criar soluções eficientes. Atualmente estou focado em aprimorar meus conhecimentos em **[Sua Stack Principal]**.
-
+### 👨‍💻 Desenvolvedor [Analista de Infraestrutura & Estudante de DevOps]
+Sou estudante de **Ciência da Computação na UNIDERP** e entusiasta de automação. Meu foco é entender como a infraestrutura de rede sustenta as aplicações, garantindo segurança e disponibilidade.
 ---
 
 ### 🚀 Sobre mim
