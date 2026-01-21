@@ -9,21 +9,22 @@ Sou um apaixonado por tecnologia, focado em resolver problemas e criar soluçõe
 ### 🚀 Sobre mim
 - 🔭 Atualmente trabalhando na **Metalmil Metalurgica**
 - 🌱 Aprendendo no momento **Cybersegurança e protocolos de rede**
-- 📫 Como me encontrar: **diegomilitaosouza@gmail.com** **https://www.linkedin.com/in/diego-milit%C3%A3o-de-souza-b32446281/**
+- 📫 Como me encontrar: **email: diegomilitaosouza@gmail.com**
 
 ---
 
 ### 🛠 Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,docker,git" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,docker,git" />
+  </a>
 </p>
-
 ---
 
 ### 📊 Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego7020&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego7020&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
