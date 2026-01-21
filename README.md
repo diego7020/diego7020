@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, meu nome é Diego! 👋
 
-<!--
-**diego7020/diego7020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Desenvolvedor [Sua Área: Ex Fullstack / Mobile / Data Science]
 
-Here are some ideas to get you started:
+Sou um apaixonado por tecnologia, focado em resolver problemas e criar soluções eficientes. Atualmente estou focado em aprimorar meus conhecimentos em **[Sua Stack Principal]**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+- 🔭 Atualmente trabalhando na **Metalmil Metalurgica**
+- 🌱 Aprendendo no momento **Cybersegurança e protocolos de rede**
+- 📫 Como me encontrar: **diegomilitaosouza@gmail.com** **https://www.linkedin.com/in/diego-milit%C3%A3o-de-souza-b32446281/**
+
+---
+
+### 🛠 Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,docker,git" />
+</p>
+
+---
+
+### 📊 Estatísticas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### 🔗 Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/diego-milit%C3%A3o-de-souza-b32446281))
