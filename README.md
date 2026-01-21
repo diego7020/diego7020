@@ -6,7 +6,9 @@ Sou estudante de **Ciência da Computação na UNIDERP** e entusiasta de automa�
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente trabalhando na **Metalmil Metalurgica**
-- 🌱 Aprendendo no momento **Cybersegurança e protocolos de rede**
+- 🎓 Cursando Ciência da Computação (Previsão: 12/2026)
+- 🌱 Certificado em Cybersegurança pela Cisco Networking Academy e aprendendo automação com Python.
+- 🛠️ Focado em migrar para a área de TI (Infra/Redes/DevOps).
 - 📫 Como me encontrar: **email: diegomilitaosouza@gmail.com**
 
 ---
@@ -14,7 +16,7 @@ Sou estudante de **Ciência da Computação na UNIDERP** e entusiasta de automa�
 ### 🛠 Tecnologias e Ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,docker,git" />
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,c,java" />
   </a>
 </p>
 ---
