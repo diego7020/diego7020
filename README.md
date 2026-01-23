@@ -1,7 +1,7 @@
 # Olá, meu nome é Diego! 👋
 
 ### 👨‍💻 Desenvolvedor [Analista de Infraestrutura & Estudante de DevOps]
-Sou estudante de **Ciência da Computação na UNIDERP** e entusiasta de automação. Meu foco é entender como a infraestrutura de rede sustenta as aplicações, garantindo segurança e disponibilidade.
+Sou estudante de **Ciência da Computação** e entusiasta de automação. Meu foco é entender como a infraestrutura de rede sustenta as aplicações, garantindo segurança e disponibilidade.
 ---
 
 ### 🚀 Sobre mim
